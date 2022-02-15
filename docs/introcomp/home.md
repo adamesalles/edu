@@ -9,9 +9,11 @@ Sejam bem-vindos à página dessa disciplina. Seguirei mantendo-a atualizada. Qu
 
 ## Informações
 
-- Horário de Atendimento: Quinta-feira 17h-19h. (provável)
+- Horário de Atendimento: Quinta-feira 16h-18h
 - Link de Atendimento: **em breve**
 - Ementa do Curso: **em breve**
+
+Não deixe de visitar também o [repositório do monitor Tiago Barradas](https://github.com/barrafas/Monitorias-IC/).
 
 ## Introdução
 
@@ -29,6 +31,8 @@ O curso, em linhas breves, trará uma abordagem introdutória-intermediária em 
 Além desses links, obviamente, o material específico para o curso estará aqui nessa página. Fico receoso de colocar alguns cursos que já fiz pois a maioria parte para tópicos avançados sem fortalecer a base. E, nesse primeiro momento, o mais importante é aprender bem os princípios.
 
 ## Notas de Monitoria
+
+### Semana 1 (12/02)
 
 **Em Breve**
 
