@@ -1,0 +1,103 @@
+% Define a classe do documento.
+\documentclass[a4paper]{article}
+
+% Encoder (NECESSARIO)
+\usepackage[utf8]{inputenc}
+
+% Traduz palavras geradas pelo LaTeX para o Português
+\usepackage[brazil]{babel}
+
+% Adiciona HyperLinks nas referências.
+\usepackage{hyperref}
+
+% Coloca parágrafos automaticamente nos primeiros parágrafos de cada seção.
+\usepackage{indentfirst}
+
+% Permite comandos com cores.
+\usepackage{xcolor}
+
+% Definição precisa das margens do documento.
+\usepackage[a4paper,
+            bindingoffset=0.2in,
+            left=1in,
+            right=1in,
+            top=1in,
+            bottom=1in,
+            footskip=.25in]{geometry}
+
+
+% Se quiser configurar o hyperref
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Monitoria 1},
+    pdfpagemode=FullScreen,
+    }
+
+% Infos. Cabeçalho
+\title{Monitoria 1}
+\author{Eduardo Adame Salles}
+\date{\today}
+
+% Aqui começa o documento em si.
+\begin{document}
+
+% Imprime as informações do cabeçalho no documento.
+\maketitle
+
+% força uma quebra de página
+\newpage
+
+% Cria um sumário (recomendo usar \newpage)
+\tableofcontents
+\newpage
+
+\section{Tipos de Fonte}
+
+% Colorir texto
+{\color{blue} Bacon ipsum dolor amet boudin ground round flank capicola tongue bacon. T-bone venison pork chop chuck, beef ribs boudin corned beef drumstick ham jerky shank swine filet mignon jowl. Meatloaf biltong pork chop, short ribs drumstick ribeye short loin capicola prosciutto. Venison leberkas pancetta frankfurter swine spare ribs.}
+
+Venison t-bone meatball chislic. Prosciutto fatback swine, pork chop beef brisket porchetta hamburger turkey pork belly. Jowl jerky buffalo, prosciutto shankle kevin meatloaf leberkas porchetta. Kielbasa filet mignon pancetta meatloaf. Swine burgdoggen kevin jerky shankle doner pork chop shoulder sausage pork belly tri-tip ground round. Doner sirloin tri-tip, prosciutto swine alcatra short loin strip steak shoulder short ribs leberkas tail t-bone buffalo. Pork belly meatloaf pork loin cow, tongue drumstick chislic swine filet mignon venison pig hamburger.
+
+% Lista enumerada
+\subsection{Lista Enumerada}
+
+\begin{enumerate}
+    \item Negrito: \textbf{Fonte em Negrito}.
+    \item Monotype: \texttt{Fonte Monotype}.
+    \item SmallCaps: \textsc{Fonte em SmallCaps}.
+    \item Fontes Parecidas
+    \begin{enumerate}
+        \item Itálico: \textit{Fonte em Itálico}.
+        \item Ênfase: \emph{Fonte em Ênfase}.
+    \end{enumerate}
+    \item Underline: \underline{Fonte em Underline}
+\end{enumerate}
+\newpage
+
+% Colorir página
+\pagecolor{red!10}
+\section{Tamanhos de Fonte}
+
+% Lista não-enumerada
+\begin{itemize}
+    \item[tiny] {\tiny  Bacon ipsum dolor amet}
+    \item[footnotesize] {\footnotesize  Bacon ipsum dolor amet}
+    \item[large] {\large Grandinha}
+    \item[Large] {\Large Grande}
+    \item[LARGE] {\LARGE Grande}
+    \item[huge] {\huge Grande}
+    \item[Huge] {\Huge Grande} 
+\end{itemize}
+
+% Colorir fundo do texto
+\colorbox{blue}{Água mole pedra dura, e fim de papo.} \footnote{Bruno Lunardon - pupilo do Adamismo}
+
+\vspace{2cm}
+
+% Adame melhor monitor. \footnote{Turma de 2022 de Ciência de Dados da FGV}. (SEM TRETA, veja o vídeo para entender)
+
+\end{document}
+% A partir daqui, não é mais compilado nada.

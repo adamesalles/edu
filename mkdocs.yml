@@ -1,6 +1,7 @@
 site_name: Monitorias do Adame
 site_url: https://adamesalles.github.io/edu
-#repo_url: https://github.com/adamesalles/edu
+repo_name: adamesalles/edu
+repo_url: https://github.com/adamesalles/edu
 
 nav:
   - Início: index.md

@@ -11,7 +11,7 @@ Atualmente, eu estou sendo monitor pela primeira vez na FGV. Contudo, eu já tiv
 
 Antes de prosseguir, gostaria de deixar bem claro que eu fico extremamente lisonjeado de receber visitas aqui e espero profundamente que algo aqui seja útil. O site está bem intuitivo, então não acredito que necessite de instruções. Vou tentar ao máximo utilizar expressões em português, para criar-se uma espécie de material de estudo acessível.
 
-Qualquer dúvida que tiver (seja sobre a disciplina, o site, questões existenciais), não hesite em falar comigo. Pode ter certeza que gostarei bastante. Me contate por qualquer meio que já possuir ou em algum dos que estão no rodapé daqui do site.
+Qualquer dúvida que tiver (seja sobre a disciplina, o site, questões existenciais), não hesite em falar comigo. Pode ter certeza que gostarei bastante. Me contate por qualquer meio que já possuir ou em algum dos que estão no rodapé daqui do site. Logo acima também você pode visitar o repositório no GitHub.
 
 
 

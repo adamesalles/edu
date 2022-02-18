@@ -10,8 +10,9 @@ Sejam bem-vindos à página dessa disciplina. Seguirei mantendo-a atualizada. Qu
 ## Informações
 
 - Horário de Atendimento: Quinta-feira 16h-18h
-- Link de Atendimento: **em breve**
-- Ementa do Curso: **em breve**
+- Playlist com os vídeos da monitoria: <https://www.youtube.com/playlist?list=PLtp0NMJtiOH8gaxHlqryd5a50o9_mtmvp>
+- Link de Atendimento: **Em Breve**
+- Ementa do Curso: **Em Breve**
 
 Não deixe de visitar também o [repositório do monitor Tiago Barradas](https://github.com/barrafas/Monitorias-IC/).
 
@@ -32,9 +33,27 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 
 ## Notas de Monitoria
 
-### Semana 1 (12/02)
+### Semana 1 (14/02)
 
-**Em Breve**
+[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/17-02/)
+
+#### Tópicos
+
+- Vantagens de usar o $\LaTeX$;
+- Ambientação e uso do OverLeaf;
+- Comandos base e suas funções;
+- Ambientes;
+- Seções, subseções e subsubseções;
+- Listas enumeradas e não-enumeradas;
+- Tamanhos e tipos de tipografia (negrito, large, etc.);
+- Alguns pacotes simples, mas úteis.
+
+#### Links
+
+- [Link para a gravação](https://www.youtube.com/watch?v=9zcCK2_WTUk&list=PLtp0NMJtiOH8gaxHlqryd5a50o9_mtmvp&index=1)
+- [Link para os arquivos](https://www.github.com/adamesalles/edu/IntroComp/17-02/)
+
+### Semana 2 (21/02)
 
 ## Listas e Resoluções
 
