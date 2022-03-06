@@ -55,6 +55,23 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 
 ### Semana 2 (21/02)
 
+[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/24-02/)
+
+#### Tópicos
+
+- Ambiente Matemático;
+- Referências;
+- Exportar para o Geogebra;
+- Figuras;
+- Tabelas;
+
+#### Links
+
+- [Link para a gravação](https://youtu.be/taxDMMX-lSs){:target="_blank"}
+- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/24-02){:target="_blank"}
+
 ## Listas e Resoluções
 
 **Em Breve**
+
+<!-- leonardo -->
