@@ -1,0 +1,85 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{lipsum}
+\usepackage{minted}
+\usepackage[brazil]{babel}
+
+\title{Monitoria 16-03}
+\author[SALLES, E. \and CAESAR, G.]{Eduardo Adame Salles \and Gaius Iulius Caesar}
+\date{\today}
+\institute[EMAp/FGV]{Escola de Matemática Aplicada da Fundação Getulio Vargas}
+\setbeamertemplate{navigation symbols}{} 
+\setbeamertemplate{footline}[frame number]
+\usetheme{metropolis}
+
+\setbeamercovered{transparent}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+    \tableofcontents
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}{Pesadelos: O Lunardon é meu vizinho.}
+    Hoje é um dia muito mais colorido agora com Beamer.
+    
+    \begin{block}{Título do Bloco}
+    Eduardo é meu nome.
+    \end{block}
+    
+    % Forma com multicol
+    \begin{multicols}{3}
+    Pokem ipsum dolor sit amet Fire Red Feraligatr Archen Luvdisc Golduck Electivire. Lorem ipsum dolor sit amet gym Skiploom Lugia Wurmple Vanillish Paras. Ghost Eevee Teleport Metagross Vibrava Oddish Stunky. Charmander Hydro Pump Sand-Attack Fighting Gardevoir Zweilous Archen. Ut labore et dolore magna aliqua Baltoy Steelix Harden Moltres Palkia Ambipom
+    \end{multicols}
+    
+    Pokem ipsum dolor sit amet Fire Red Feraligatr Archen Luvdisc Golduck Electivire. Lorem ipsum dolor sit amet gym Skiploom Lugia Wurmple Vanillish Paras. Ghost Eevee Teleport Metagross Vibrava Oddish Stunky. 
+\end{frame}
+
+% Usando código.
+\begin{frame}[fragile]{C'est la vie}
+    \begin{minted}[linenos]{python}
+    if a < b:
+        break
+    \end{minted}
+\end{frame}
+
+\section{Conclusion}
+
+\begin{frame}{Como usar duas colunas com minipage}
+\begin{minipage}{.45\textwidth}
+    \begin{block}{O descobrimento}
+    Pokem ipsum dolor sit amet Fire Red Feraligatr Archen Luvdisc Golduck Electivire. Lorem ipsum dolor sit amet gym Skiploom Lugia Wurmple Vanillish Paras. Ghost Eevee Teleport Metagross
+    \end{block}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\textwidth}
+    SHREK 2
+\end{minipage}   
+\end{frame}
+
+\begin{frame}{Extensão}
+Professores do primeiro período.
+    \begin{itemize}
+        \item Rafael Pinho
+        \pause{}
+        \item Luciano Guimarães
+        \pause{}
+        \item Eduardo Wagner
+        \pause{}
+        \item Asla de Sá
+    \end{itemize}
+\end{frame}
+
+\begin{frame}[standout]
+  Perguntas?
+\end{frame}
+
+% Fazer uma capa utilizando meta-dados
+
+\end{document}
+
