@@ -9,9 +9,8 @@ Sejam bem-vindos à página dessa disciplina. Seguirei mantendo-a atualizada. Qu
 
 ## Informações
 
-- Horário de Atendimento: Quinta-feira 16h-18h
+- Horário de Atendimento: Quarta-feira 16h-18h, Sala 1332.
 - [Playlist com os vídeos da monitoria](https://www.youtube.com/playlist?list=PLtp0NMJtiOH8gaxHlqryd5a50o9_mtmvp)
-- Link de Atendimento: **Em Breve**
 - Ementa do Curso: **Em Breve**
 
 Não deixe de visitar também o [repositório do monitor Tiago Barradas](https://github.com/barrafas/Monitorias-IC/).
@@ -59,19 +58,33 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 
 #### Tópicos
 
+- Importar Geogebra;
 - Ambiente Matemático;
 - Referências;
-- Exportar para o Geogebra;
 - Figuras;
-- Tabelas;
+- Tabelas.
 
 #### Links
 
 - [Link para a gravação](https://youtu.be/taxDMMX-lSs){:target="_blank"}
 - [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/24-02){:target="_blank"}
 
+### Semanas 3 e 4 (16/03 e 23/03)
+
+[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/16-03/)
+
+#### Tópicos
+
+- Beamer;
+- Multicolunas;
+- Embutir código.
+
+
+#### Links
+
+- [Link para a gravação](https://youtu.be/taxDMMX-lSs){:target="_blank"}
+- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/16-03){:target="_blank"}
+
 ## Listas e Resoluções
 
 **Em Breve**
-
-<!-- leonardo -->
