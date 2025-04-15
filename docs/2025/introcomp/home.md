@@ -20,6 +20,7 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 - [Grymoire Unix](http://www.grymoire.com/Unix/){:target="_blank"} - Um ótimo guia de Unix/Linux.
 - [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/){:target="_blank"} - Um guia de introdução ao Bash.
 - [TCP vs UDP](https://www.alura.com.br/artigos/quais-as-diferencas-entre-o-tcp-e-o-udp){:target="_blank"} - Um guia sobre as diferenças entre TCP e UDP.
+- [Emulador On-line de Linux](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192){:target="_blank"} - Um emulador de Linux que roda no seu navegador.
 
 ## Notas de Monitoria
 
