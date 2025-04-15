@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Nome do filme: $(grep -m1 "Title" $1 | awk -F'Title: ' '{print $2}')"
+echo "Quantidade de linhas: $(cat $1 | wc -l)"
+echo "Quantidade de palavras: $(cat $1 | wc -w)"
+echo "Quantidade de caracteres: $(cat $1 | wc -c)"
+echo "Ano de lançamento: $(grep -m1 "Publication" $1 | awk -F'Publication: ' '{print $2}')"
+
