@@ -13,7 +13,7 @@ Sejam bem-vindos à página dessa disciplina. Seguirei mantendo-a atualizada. Qu
 - [Playlist com os vídeos da monitoria](https://www.youtube.com/playlist?list=PLtp0NMJtiOH8gaxHlqryd5a50o9_mtmvp)
 - Ementa do Curso: **Em Breve**
 
-Não deixe de visitar também o [repositório do monitor Tiago Barradas](https://github.com/barrafas/Monitorias-IC/).
+Não deixe de visitar também esse [repositório](https://github.com/barrafas/Monitorias-IC/).
 
 ## Introdução
 
@@ -34,7 +34,7 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 
 ### Semana 1 (14/02)
 
-[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/17-02/)
+[Acesse o conteúdo](./17-02.md)
 
 #### Tópicos
 
@@ -50,11 +50,11 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 #### Links
 
 - [Link para a gravação](https://www.youtube.com/watch?v=9zcCK2_WTUk&list=PLtp0NMJtiOH8gaxHlqryd5a50o9_mtmvp&index=1){:target="_blank"}
-- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/17-02){:target="_blank"}
+- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/resources/2022/introcomp/17-02){:target="_blank"}
 
 ### Semana 2 (21/02)
 
-[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/24-02/)
+[Acesse o conteúdo](./24-02.md)
 
 #### Tópicos
 
@@ -67,11 +67,11 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 #### Links
 
 - [Link para a gravação](https://youtu.be/taxDMMX-lSs){:target="_blank"}
-- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/24-02){:target="_blank"}
+- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/resources/2022/introcomp/24-02){:target="_blank"}
 
 ### Semanas 3 e 4 (16/03 e 23/03)
 
-[Acesse o conteúdo](https://adamesalles.github.io/edu/introcomp/16-03/)
+[Acesse o conteúdo](./16-03.md)
 
 #### Tópicos
 
@@ -83,7 +83,7 @@ Além desses links, obviamente, o material específico para o curso estará aqui
 #### Links
 
 - [Link para a gravação](https://youtu.be/taxDMMX-lSs){:target="_blank"}
-- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/IntroComp/16-03){:target="_blank"}
+- [Link para os arquivos](https://github.com/adamesalles/edu/tree/main/resources/2022/introcomp/16-03){:target="_blank"}
 
 ## Listas e Resoluções
 

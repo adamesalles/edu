@@ -5,8 +5,8 @@ repo_url: https://github.com/adamesalles/edu
 
 nav:
   - Início: index.md
-  - Sobre: about.md
-  - Introdução à Computação: introcomp/home.md
+  # - Sobre: about.md
+  # - Introdução à Computação: introcomp/home.md
 
 theme:
   name: material
@@ -17,7 +17,9 @@ theme:
   features:
     - navigation.tabs
     - content.tabs.link
-    - navigation.top
+    - content.code.copy
+    - toc.integrate
+    - navigation.footer
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -73,11 +75,11 @@ extra:
   social:
     - icon: material/at
       link: mailto:eadamesalles@gmail.com
+    - icon: material/home
+      link: https://eadame.ovh
     - icon: fontawesome/brands/github
       link: https://github.com/adamesalles
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/eadamesalles
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/eduadame
 
-copyright: Feito com ❤ por Eduardo Adame - 2022
+copyright: Feito com ❤ por Eduardo Adame. © 2022 - 2025 

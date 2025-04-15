@@ -1,0 +1,17 @@
+# Introdução à Computação
+
+Sejam bem-vindos às minhas notas de introdução à computação!
+
+## Informações
+
+- Horário de Atendimento: Quarta-feira 14h20-16h, Sala 1014.
+- Ementa do Curso: [Syllabus do Flávio](https://github.com/fccoelho/introcomp/tree/main){:target="_blank"}
+- Professores:
+    - [Prof. Walter Sande, PhD.](http://lattes.cnpq.br/0289400810360557)
+    - [Prof. Flávio C. Coelho, PhD.](http://lattes.cnpq.br/0309050626285266)
+
+## Links úteis
+
+- [Grymoire Unix](http://www.grymoire.com/Unix/){:target="_blank"} - Um ótimo guia de Unix/Linux.
+- [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/){:target="_blank"} - Um guia de introdução ao Bash.
+- [TCP vs UDP](https://www.alura.com.br/artigos/quais-as-diferencas-entre-o-tcp-e-o-udp){:target="_blank"} - Um guia sobre as diferenças entre TCP e UDP.
