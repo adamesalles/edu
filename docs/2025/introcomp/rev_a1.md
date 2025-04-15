@@ -117,6 +117,8 @@ sed 's/Shrek/OGRE/g' assets/shrek.txt
     ```bash
     cat assets/shrek.txt | sed 's/friend/enemy/g' | grep 'enemy'
     sed 's/Shrek/OGRE/g' assets/shrek.txt | grep 'OGRE'
+    cat assets/shrek.txt | sed 's/\(Shrek)\/\1, the Ogre/g' | grep 'Ogre'
+    cat assets/shrek.txt | grep -io donkey | sed 's/\(donkey)\/\1\nogre/g'
     ```
 
 
@@ -255,4 +257,12 @@ cat assets/bee_movie.txt | grep 'bee' | sort | uniq -c | sort -nr | head
     echo "Quantidade de caracteres: $(cat \"$1\" | wc -c)"
     echo "Ano de lançamento: $(grep -m1 'Publication' \"$1\" | awk -F'Publication: ' '{print $2}')"
     ```
+
+### 9. Encontre as 10 palavras mais repetidas no filme Bee Movie
+
+??? example "Gabarito"
+    ```bash
+    cat assets/bee_movie.txt | tr ' ' '\n' | sort | uniq -c | sort -nr | head -10
+    ```
+
 ---
