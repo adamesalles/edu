@@ -30,5 +30,5 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 ### Introdução ao $\LaTeX$ (30/04/25)
 [Acesse o conteúdo](./intro_latex.md)
 
-### Próximos passos com LaTeX (07/05/25)
+### Próximos passos com $\LaTeX$ (07/05/25)
 [Acesse o conteúdo](./next_steps_latex.md)
