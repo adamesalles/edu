@@ -32,3 +32,6 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ### Próximos passos com $\LaTeX$ (07/05/25)
 [Acesse o conteúdo](./next_steps_latex.md)
+
+### Introdução ao Python (14/05/25)
+[Acesse o conteúdo](./intro_python.md)
