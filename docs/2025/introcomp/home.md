@@ -24,14 +24,18 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Notas de Monitoria
 
-### Pré-A1 (15/04/25)
-[Acesse o conteúdo](./rev_a1.md)
+### Exercícios de Python (21/05/25)
+[Acesse o conteúdo](./intermediate_python.md)
 
-### Introdução ao $\LaTeX$ (30/04/25)
-[Acesse o conteúdo](./intro_latex.md)
+### Introdução ao Python (14/05/25)
+[Acesse o conteúdo](./intro_python.md)
 
 ### Próximos passos com $\LaTeX$ (07/05/25)
 [Acesse o conteúdo](./next_steps_latex.md)
 
-### Introdução ao Python (14/05/25)
-[Acesse o conteúdo](./intro_python.md)
+### Introdução ao $\LaTeX$ (30/04/25, meu aniversário :D)
+[Acesse o conteúdo](./intro_latex.md)
+
+### Pré-A1 (15/04/25)
+[Acesse o conteúdo](./rev_a1.md)
+
