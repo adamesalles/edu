@@ -1,6 +1,6 @@
 # Introdução ao Python
 
-Este material apresenta os fundamentos da linguagem Python.
+Este material apresenta os fundamentos da linguagem Python. Confira o código trabalhado em aula [aqui](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/14-05/first.py).
 
 ---
 
