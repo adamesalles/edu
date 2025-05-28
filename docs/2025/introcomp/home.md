@@ -24,7 +24,7 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Notas de Monitoria
 
-### Exercícios de Python (21/05/25)
+### Exercícios de Python (21/05/25 e 28/05/25)
 [Acesse o conteúdo](./intermediate_python.md)
 
 ### Introdução ao Python (14/05/25)
