@@ -4,7 +4,7 @@ title: Python Intermediário
 
 # Python Intermediário
 
-Este material apresenta conceitos de nível intermediário em Python, seguidos de três exercícios práticos. Confira o código trabalhado na aula [de (21/05) aqui](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/21-05/chamada.py) e em [(28/05) aqui](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/21-05/chamada.py).
+Este material apresenta conceitos de nível intermediário em Python, seguidos de três exercícios práticos. Confira o código trabalhado na aula [de (21/05) aqui](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/21-05/chamada.py) e em [(28/05) aqui](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/21-05/ex1.py).
 
 ---
 
@@ -116,7 +116,7 @@ Use `time.time()` ou `datetime` para medir tempo de execução, se quiser cronom
 
 ## Gabaritos
 
-### Exercício 1: Jogo da Forca
+### Exercício 1: Análise de Arquivo `.txt`
 
 ??? example "Gabarito"
     ```python
