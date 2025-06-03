@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Introdução à Computação
+# Introdução à Computação (2025)
 
 Sejam bem-vindos às minhas notas de introdução à computação!
 
@@ -23,6 +23,9 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 - [Emulador On-line de Linux](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192){:target="_blank"} - Um emulador de Linux que roda no seu navegador.
 
 ## Notas de Monitoria
+
+### Introdução ao Pandas e SQLite (05/06/25)
+[Acesse o conteúdo](./intro_pandas_sqlite.md)
 
 ### Exercícios de Python (21/05/25 e 28/05/25)
 [Acesse o conteúdo](./intermediate_python.md)

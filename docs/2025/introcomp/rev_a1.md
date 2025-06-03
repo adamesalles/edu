@@ -193,42 +193,42 @@ cat assets/bee_movie.txt | grep 'bee' | sort | uniq -c | sort -nr | head
 
 ### 1. Encontre todas as linhas com `{Shouting}`, `{Roaring}`, `{Laugh}` ou `{Laughing}` no script do Shrek.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     grep -E '\{(Shouting|Roaring|Laugh|Laughing)\}' assets/shrek.txt
     ```
 
 ### 2. Use `grep` com regex para encontrar linhas que começam com a letra `T`.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     grep '^T' assets/*.txt
     ```
 
 ### 3. Use `sed` para substituir todas as ocorrências de “Bee” por “Wasp” no arquivo do Bee Movie (sem sobrescrever o original).
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     sed 's/Bee/Wasp/g' assets/bee_movie.txt > assets/bee_movie_wasp.txt
     ```
 
 ### 4. Use `awk` para extrair apenas as duas primeiras palavras de cada linha.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     awk '{print $1, $2}' assets/*.txt
     ```
 
 ### 5. Liste os arquivos `.txt` em `assets/`, ordenados por tamanho decrescente.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     ls -lhS assets/*.txt
     ```
 
 ### 6. Use `grep` para contar quantas vezes a palavra “love” aparece em cada roteiro.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     grep -oi 'love' assets/shrek.txt | wc -l
     grep -oi 'love' assets/bee_movie.txt | wc -l
@@ -236,7 +236,7 @@ cat assets/bee_movie.txt | grep 'bee' | sort | uniq -c | sort -nr | head
 
 ### 7. Use `head` para extrair as duas primeiras linhas do roteiro e mostrar o título e o ano.
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     head -n2 assets/shrek.txt
     head -n2 assets/bee_movie.txt
@@ -248,7 +248,7 @@ cat assets/bee_movie.txt | grep 'bee' | sort | uniq -c | sort -nr | head
   - Conte quantidade de linhas, palavras e caracteres
   - Extraia o ano da linha `Publication:`
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     #!/bin/bash
     echo "Nome do filme: $(grep -m1 'Title' \"$1\" | awk -F'Title: ' '{print $2}')"
@@ -260,7 +260,7 @@ cat assets/bee_movie.txt | grep 'bee' | sort | uniq -c | sort -nr | head
 
 ### 9. Encontre as 10 palavras mais repetidas no filme Bee Movie
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```bash
     cat assets/bee_movie.txt | tr ' ' '\n' | sort | uniq -c | sort -nr | head -10
     ```

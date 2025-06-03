@@ -118,7 +118,7 @@ Use `time.time()` ou `datetime` para medir tempo de execução, se quiser cronom
 
 ### Exercício 1: Análise de Arquivo `.txt`
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```python
     import string
     from collections import Counter
@@ -146,7 +146,7 @@ Use `time.time()` ou `datetime` para medir tempo de execução, se quiser cronom
 
 ### Exercício 2: Jogo da Forca
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```python
     def jogar_forca(palavra):
         palavra = palavra.lower()
@@ -186,7 +186,7 @@ Use `time.time()` ou `datetime` para medir tempo de execução, se quiser cronom
 
 ## Exercício 3: Gerador de Relatório CSV
 
-??? example "Gabarito"
+??? success "Gabarito"
     ```python
     import csv
 
