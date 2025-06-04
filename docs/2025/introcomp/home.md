@@ -17,6 +17,7 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Links úteis
 
+- [Learn X=Python in Y Minutes (pt-br)](https://learnxinyminutes.com/pt-br/python/){:target="_blank"} - Um tutorial em arquivo único de Python. Eu recomendo esse site para qualquer outro tópico que você queira aprender de uma vez só. 
 - [Grymoire Unix](http://www.grymoire.com/Unix/){:target="_blank"} - Um ótimo guia de Unix/Linux.
 - [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/){:target="_blank"} - Um guia de introdução ao Bash.
 - [TCP vs UDP](https://www.alura.com.br/artigos/quais-as-diferencas-entre-o-tcp-e-o-udp){:target="_blank"} - Um guia sobre as diferenças entre TCP e UDP.
@@ -24,7 +25,7 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Notas de Monitoria
 
-### Introdução ao Pandas e SQLite (05/06/25)
+### Introdução ao Pandas e SQLite (04/06/25)
 [Acesse o conteúdo](./intro_pandas_sqlite.md)
 
 ### Exercícios de Python (21/05/25 e 28/05/25)

@@ -146,4 +146,4 @@ Crie uma nova coluna is_minor e calcule a porcentagem de menores de idade (idade
 ## Extras
 
 - Faça [esse tutorial de SQL](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/assets/sqlite-tutorial.sql);
-- Veja o [um exemplo de arquivo marimo](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/05-06/pandas_and_sqlite.py).
+- Veja o [um exemplo de arquivo marimo](https://github.com/adamesalles/edu/blob/main/resources/2025/introcomp/04-06/pandas_and_sqlite.py).
