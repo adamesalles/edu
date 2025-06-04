@@ -9,7 +9,7 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Informações
 
-- Horário de Atendimento: Quarta-feira 14h20-16h, Sala 1014.
+- Horário de Atendimento: Quarta-feira 14h20-16h, Sala 1013.
 - Ementa do Curso: [Syllabus do Flávio](https://github.com/fccoelho/introcomp/tree/main){:target="_blank"}
 - Professores:
     - [Prof. Walter Sande, PhD.](http://lattes.cnpq.br/0289400810360557)
