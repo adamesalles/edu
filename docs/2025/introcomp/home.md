@@ -25,6 +25,9 @@ Sejam bem-vindos às minhas notas de introdução à computação!
 
 ## Notas de Monitoria
 
+### Introdução ao Pandas (parte 2) (11/06/25)
+[Acesse o conteúdo](./pandas_2.md)
+
 ### Introdução ao Pandas e SQLite (04/06/25)
 [Acesse o conteúdo](./intro_pandas_sqlite.md)
 
