@@ -1,10 +1,10 @@
 ---
-title: Tutorial de Pandas sem SQL
+title: Tutorial de Pandas (parte 2)
 hide:
   - navigation
 ---
 
-# Tutorial de Pandas sem SQL
+# Tutorial de Pandas (parte 2)
 
 ## Objetivos
 
@@ -80,7 +80,7 @@ mal_clean['title'] = (
 ```python
 cr_clean = (
     cr
-    .rename(columns={'anime': 'title', 'rate': 'rate'})
+    .rename(columns={'anime': 'title'})
     .copy()
 )
 cr_clean['title'] = (
@@ -115,27 +115,27 @@ cr_sel  = cr_clean[['title', 'episodes', 'votes', 'votes_weight', 'rate', 'sourc
 ### Unir os DataFrames
 
 ```python
-merged_df = pd.concat([mal_sel, cr_sel], ignore_index=True)
+stacked_df = pd.concat([mal_sel, cr_sel], ignore_index=True)
 ```
 
 ### Análise exploratória básica
 
 ```python
-merged_df.head()
-merged_df.describe(include='all')
+stacked_df.head()
+stacked_df.describe(include='all')
 ```
 
 ---
 
 ## Perguntas
 
-Utilize o DataFrame `merged_df` para responder:
+Utilize o DataFrame `stacked_df` para responder:
 
 ### 1. Qual anime possui o maior número de membros no MyAnimeList?
 
 ??? success "Resposta"
     ```python
-    merged_df[merged_df['source'] == 'MyAnimeList'] \
+    stacked_df[stacked_df['source'] == 'MyAnimeList'] \
      .sort_values('members', ascending=False) \
      .head(1)['title']
     ```
@@ -144,7 +144,7 @@ Utilize o DataFrame `merged_df` para responder:
 
 ??? success "Resposta"
     ```python
-    merged_df[merged_df['source'] == 'Crunchyroll'] \
+    stacked_df[stacked_df['source'] == 'Crunchyroll'] \
      .sort_values('rate', ascending=False) \
      .head(1)['title']
     ```
@@ -153,7 +153,7 @@ Utilize o DataFrame `merged_df` para responder:
 
 ??? success "Resposta"
     ```python
-    merged_df.sort_values('episodes', ascending=False) \
+    stacked_df.sort_values('episodes', ascending=False) \
      .head(1)['title']
     ```
 
