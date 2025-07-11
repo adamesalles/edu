@@ -29,6 +29,7 @@ Ao clicar no nome das disciplinas abaixo (quando possível), você irá acessar 
 
 | Semestre | Disciplina | Docente(s) | Descrição |
 |----------| -----------| --------| ----------|
+| 2025.2 | [Machine Learning](./2025/ml/home.md) | [Prof. Diego Mesquita, PhD.](https://www.diegomesquita.com) | Introdução ao aprendizado por máquina, matriz de correlações e análise de componentes principais, regressão linear com o método dos mínimos quadrados, classificação Bayesiana, discriminante linear, regressão logística, análise de agrupamentos, redes neurais artificiais MLP e RBF, máquinas de vetor de suporte, combinação de modelos, seleção de variáveis. |
 | 2025.1 | [Introdução à Computação](./2025/introcomp/home.md) | [Prof. Walter Sande, PhD.](http://lattes.cnpq.br/0289400810360557) e [Prof. Flávio C. Coelho, PhD.](http://lattes.cnpq.br/0309050626285266) | Fundamentos de computação, lógica de programação e ferramentas práticas para ciência de dados. |
 | Verão 2025 | Cálculo em Várias Variáveis 1 | [Profa. Sônia Durães, PhD.](http://lattes.cnpq.br//0046639059059059879) | Primeira parte do curso de Cálculo multivariado até integrais múltiplas. |
 | 2024.2 | Computação (EPGE)| [Prof. Walter Sande, PhD.](http://lattes.cnpq.br/0289400810360557) e [Prof. Bruno Cuconato, DSc.](http://lattes.cnpq.br/8519188062698430) | Introdução prática à programação com foco em aplicações econômicas e computação científica. |
