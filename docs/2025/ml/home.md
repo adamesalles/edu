@@ -25,4 +25,5 @@ Sejam bem-vindos às minhas notas de Machine Learning!
 ### Regressão Linear 1 (11/07/25)
 [Acesse o conteúdo](https://github.com/adamesalles/edu/tree/main/resources/2025/ml/11-07/lr.py)
 
-
+### Regressão Linear 2 (28/07/25)
+[Acesse o conteúdo](https://github.com/adamesalles/edu/tree/main/resources/2025/ml/28-07/lmc.py)

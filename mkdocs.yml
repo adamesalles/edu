@@ -5,7 +5,8 @@ repo_url: https://github.com/adamesalles/edu
 
 nav:
   - Início: index.md
-  - Introdução à Computação (2025): 2025/introcomp/home.md
+  - Machine Learning: 2025/ml/home.md
+  # - Introdução à Computação (2025): 2025/introcomp/home.md
   # - Sobre: about.md
 
 theme:
